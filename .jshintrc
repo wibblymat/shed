@@ -17,6 +17,7 @@
   "unused": "vars",
   "strict": true,
 
+  "esnext": true,
   "worker": true,
   "devel": true,
   "node": true,
